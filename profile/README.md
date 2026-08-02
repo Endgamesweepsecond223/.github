@@ -20,6 +20,8 @@
 
 ## Welcome to the Garden
 
+<img width="1672" height="941" alt="1" src="https://github.com/user-attachments/assets/0d14c91b-0169-46cc-ac67-bdf3e52fedf7" />
+
 **Roblox Grow a Garden 2 Script** is a Windows desktop project created around the colorful world of gardening, crop collection, pets, seasonal events, and garden progression.
 
 The project brings different Grow a Garden 2–inspired categories together in one organized interface, making it easier to explore available content without switching between multiple pages.
